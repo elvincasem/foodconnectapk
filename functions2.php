@@ -4,7 +4,7 @@ header('Content-Type: application/json');
 ?>
 
 <?php
-	include "db_connection.php";
+	include "http://foodconnect.freesandboxdomain.com/m/db_connection.php";
 	$conn = dbConnect();
 
 	

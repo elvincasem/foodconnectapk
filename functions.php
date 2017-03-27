@@ -1,5 +1,5 @@
 <?php
-	require 'db_connection.php';
+	require 'http://foodconnect.freesandboxdomain.com/m/db_connection.php';
 
 //logout user
 	if($_GET['action'] == "logout"){
